@@ -9,3 +9,5 @@ cd docs
 make install
 make debug
 ```
+
+### Test
